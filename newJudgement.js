@@ -1,4 +1,4 @@
-let points=[80,100,80,80,70,90];
+let points=[80, 100, 80, 80, 70, 90];
 let sum=0;
 function get_achievement(points){
     for(let i=0;i<6;i++){
