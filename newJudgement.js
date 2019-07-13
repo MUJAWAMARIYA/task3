@@ -35,6 +35,5 @@ function get_pass_or_fail(points){
 function Judgement(points){
 let achievement=get_achievement(points);
 let status=get_pass_or_fail(points);
-
 }
 Judgement(points);
